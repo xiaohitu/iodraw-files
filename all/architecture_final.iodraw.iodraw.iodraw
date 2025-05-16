@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="QOYgQ3yohy-wKgOuBFyi" name="第 1 页">
-    <mxGraphModel dx="3284" dy="2698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#808080;fillColor=#ffffff;" parent="4eXlVZWnNjjgCoZ27OOv-45" vertex="1">
           <mxGeometry y="201" width="453" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="4eXlVZWnNjjgCoZ27OOv-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;（x&lt;sub&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;i&lt;/i&gt;&lt;/sub&gt;,y&lt;sub&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;i&lt;/i&gt;&lt;/sub&gt;,z&lt;sub&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;i&lt;/i&gt;&lt;/sub&gt;)&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=#808080;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="4eXlVZWnNjjgCoZ27OOv-58" vertex="1">
+        <mxCell id="4eXlVZWnNjjgCoZ27OOv-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;（x&lt;sub&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;i-1&lt;/span&gt;&lt;/sub&gt;,y&lt;sub&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;i-1&lt;/span&gt;&lt;/sub&gt;,z&lt;sub&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;i-1&lt;/span&gt;&lt;/sub&gt;)&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=#808080;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="4eXlVZWnNjjgCoZ27OOv-58" vertex="1">
           <mxGeometry width="151" height="68" as="geometry">
             <mxRectangle width="151" height="68" as="alternateBounds" />
           </mxGeometry>
