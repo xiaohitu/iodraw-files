@@ -822,7 +822,7 @@
           <mxGeometry x="779" y="31" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-112" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20.139999999999997" y="2101" width="185.22" height="198.15999999999985" as="geometry" />
+          <mxGeometry x="24.139999999999997" y="2097" width="185.22" height="198.15999999999985" as="geometry" />
         </mxCell>
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-106" value="Patch Text Description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NvVdDMFMJvdUGjjjCoPL-112">
           <mxGeometry width="185" height="24" as="geometry" />
