@@ -510,7 +510,7 @@
           <mxGeometry x="-653" y="1910" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;sketch=1;shadow=0;dashPattern=1 4;perimeterSpacing=0;strokeWidth=3;strokeColor=#67AB9F;opacity=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="1221" width="131" height="542" as="geometry" />
+          <mxGeometry x="1128" y="1221" width="118" height="542" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-113" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoCube;backgroundOutline=1;rounded=1;shadow=0;glass=0;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;gradientColor=#B3B3B3;container=0;" parent="1" vertex="1">
           <mxGeometry x="1159.47" y="1672" width="62.1" height="69" as="geometry" />
