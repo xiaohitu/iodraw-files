@@ -545,8 +545,8 @@
         <mxCell id="67fZeHFgZdzg7euK1Q5i-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;With 3D spatial encoding&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;dashed=1;dashPattern=1 4;sketch=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1101.09" y="2358" width="87" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="67fZeHFgZdzg7euK1Q5i-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=5.4;dx=33.53;arrowHead=30;" vertex="1" parent="1">
-          <mxGeometry x="-323" y="1505" width="75" height="46" as="geometry" />
+        <mxCell id="67fZeHFgZdzg7euK1Q5i-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=6.44;dx=26.52;arrowHead=30;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1505" width="92" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
