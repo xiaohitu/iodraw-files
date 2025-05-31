@@ -447,7 +447,7 @@
           <mxGeometry x="-335.5" y="1573" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="67fZeHFgZdzg7euK1Q5i-17" value="cls_token" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1684" width="100" height="40" as="geometry" />
+          <mxGeometry x="1218" y="1785" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="67fZeHFgZdzg7euK1Q5i-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1208" y="1215" width="110" height="542" as="geometry" />
