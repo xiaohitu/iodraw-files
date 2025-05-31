@@ -217,7 +217,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-129" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="496.0036480686697" y="1955" width="88.84120171673823" height="460" as="geometry" />
+          <mxGeometry x="496.0036480686697" y="1955" width="185.9963519313303" height="541" as="geometry" />
+        </mxCell>
+        <mxCell id="WCWon9fhSyOlMcgDg6wX-19" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;opacity=40;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="4eXlVZWnNjjgCoZ27OOv-129">
+          <mxGeometry x="-114.00364806866969" y="-62" width="300" height="603" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-130" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;sketch=1;shadow=0;dashPattern=1 4;perimeterSpacing=0;strokeWidth=3;strokeColor=#67AB9F;opacity=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="4eXlVZWnNjjgCoZ27OOv-129" vertex="1">
           <mxGeometry width="88.84120171673823" height="460" as="geometry" />
@@ -543,9 +546,6 @@
         </mxCell>
         <mxCell id="WCWon9fhSyOlMcgDg6wX-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Fine Tuning M3DCLIP&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="1182" width="861" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="WCWon9fhSyOlMcgDg6wX-19" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;opacity=40;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-308" y="2154" width="300" height="603" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
