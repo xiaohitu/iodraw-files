@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-45" value="PD area" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#808080;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="1812" width="320" height="198.5" as="geometry" />
+          <mxGeometry x="-635" y="1811" width="320" height="198.5" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#808080;fillColor=#ffffff;" parent="4eXlVZWnNjjgCoZ27OOv-45" vertex="1">
           <mxGeometry width="320" height="51" as="geometry" />
@@ -546,7 +546,12 @@
           <mxGeometry x="-295" y="1674" width="423.22" height="365" as="geometry" />
         </mxCell>
         <mxCell id="WCWon9fhSyOlMcgDg6wX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4eXlVZWnNjjgCoZ27OOv-58" target="4eXlVZWnNjjgCoZ27OOv-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-562" y="2057" />
+              <mxPoint x="-562" y="2057" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
