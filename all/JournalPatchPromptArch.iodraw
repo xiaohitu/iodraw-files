@@ -542,7 +542,7 @@
           <mxGeometry x="-588" y="1714" width="396" height="51" as="geometry" />
         </mxCell>
         <mxCell id="WCWon9fhSyOlMcgDg6wX-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Fine Tuning M3DCLIP&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1216.96" y="1182" width="396" height="51" as="geometry" />
+          <mxGeometry x="1216.96" y="1182" width="564.04" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
