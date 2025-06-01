@@ -145,8 +145,8 @@
         <mxCell id="iTv8frC7Rsh1FQnaaqad-49" value="明显的燕尾" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="1126" y="157" width="164" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="iTv8frC7Rsh1FQnaaqad-50" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Normal tissue​​&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="427" y="408" width="164" height="33" as="geometry" />
+        <mxCell id="iTv8frC7Rsh1FQnaaqad-50" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
+          <mxGeometry x="941" y="205" width="164" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=1;size=0.5;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="659" y="165" width="20" height="326" as="geometry" />
