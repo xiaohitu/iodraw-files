@@ -142,7 +142,7 @@
         <mxCell id="iTv8frC7Rsh1FQnaaqad-49" value="明显的燕尾" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="1126" y="157" width="164" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="iTv8frC7Rsh1FQnaaqad-50" value="Normal tissue​​&amp;nbsp; 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;rotation=90;container=0;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="iTv8frC7Rsh1FQnaaqad-50" value="Normal tissue​​&amp;nbsp; 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#d0cee2;strokeColor=#56517e;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="440.5" y="392.5" width="135" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=1;size=0.5;rotation=90;container=0;" parent="1" vertex="1">
@@ -160,7 +160,7 @@
         <mxCell id="iTv8frC7Rsh1FQnaaqad-75" value="79.9%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;textDirection=rtl;container=0;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="479" width="39" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2Y0viKT6V6uzMGE0eVNb-3" value="​​Lesion core 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-3" value="​​Lesion core 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#bac8d3;strokeColor=#23445d;rotation=90;container=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="392.5" width="135" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-4" value="​​Lesion core 2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
