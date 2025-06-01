@@ -175,10 +175,10 @@
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-7" value="​​Lesion core 3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="611" y="393.5" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="2Y0viKT6V6uzMGE0eVNb-8" value="Normal tissue​​&amp;nbsp; 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rotation=90;container=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-8" value="Normal tissue​​&amp;nbsp; 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rotation=90;container=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="759" y="392.5" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="2Y0viKT6V6uzMGE0eVNb-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="2Y0viKT6V6uzMGE0eVNb-9" target="2Y0viKT6V6uzMGE0eVNb-10">
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="2Y0viKT6V6uzMGE0eVNb-9" target="2Y0viKT6V6uzMGE0eVNb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-9" value="85.1%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" vertex="1" parent="1">
