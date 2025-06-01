@@ -148,8 +148,8 @@
         <mxCell id="iTv8frC7Rsh1FQnaaqad-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=1;size=0.5;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="659" y="165" width="20" height="326" as="geometry" />
         </mxCell>
-        <mxCell id="iTv8frC7Rsh1FQnaaqad-72" value="90.7%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="553" y="489" width="53" height="34" as="geometry" />
+        <mxCell id="iTv8frC7Rsh1FQnaaqad-72" value="90.7%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="542" y="479" width="39" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-73" value="75.6%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="1250" y="275" width="53" height="34" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-3" value="​​Lesion core 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="392.5" width="135" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-4" value="​​Lesion core 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="504" y="402.5" width="135" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
