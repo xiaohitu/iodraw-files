@@ -101,7 +101,7 @@
         <mxCell id="iTv8frC7Rsh1FQnaaqad-47" value="黑质沉淀" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="611" y="169.5" width="164" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="iTv8frC7Rsh1FQnaaqad-48" value="无关区域" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="iTv8frC7Rsh1FQnaaqad-48" value="Normal tissue​​" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="611" y="226" width="164" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-51" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;startSize=16;endArrow=open;endFill=0;" parent="1" source="iTv8frC7Rsh1FQnaaqad-49" target="iTv8frC7Rsh1FQnaaqad-50" edge="1">
