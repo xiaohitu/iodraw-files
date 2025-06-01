@@ -137,7 +137,7 @@
           <mxGeometry x="569.02" y="146.5" width="199.95" height="171" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-47" value="​​Lesion core 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="488.5" y="404" width="164" height="33" as="geometry" />
+          <mxGeometry x="503.37" y="389.13" width="134.25" height="33" as="geometry" />
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-48" value="Normal tissue​​" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" parent="1" vertex="1">
           <mxGeometry x="1194" y="157" width="164" height="33" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="iTv8frC7Rsh1FQnaaqad-75" value="79.9%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;textDirection=rtl;container=0;" parent="1" vertex="1">
           <mxGeometry x="488.5" y="479" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-3" value="Normal tissue​​&amp;nbsp; 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="402.5" width="135" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
