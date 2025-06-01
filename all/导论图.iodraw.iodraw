@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="48_PiYpjA-aKawppw6gx" name="第 1 页">
-    <mxGraphModel dx="913" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-6" value="75.0%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="479" width="39" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2Y0viKT6V6uzMGE0eVNb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Y0viKT6V6uzMGE0eVNb-7" target="2Y0viKT6V6uzMGE0eVNb-8">
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Y0viKT6V6uzMGE0eVNb-7" target="2Y0viKT6V6uzMGE0eVNb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-7" value="​​Lesion core 3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
