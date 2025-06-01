@@ -175,8 +175,11 @@
         <mxCell id="2Y0viKT6V6uzMGE0eVNb-8" value="Normal tissue​​&amp;nbsp; 1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=90;container=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="393.5" width="135" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="2Y0viKT6V6uzMGE0eVNb-9" value="90.7%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="659" y="482" width="39" height="34" as="geometry" />
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-9" value="85.1%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="659" y="481" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y0viKT6V6uzMGE0eVNb-10" value="85.1%" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffcccc;strokeColor=#36393d;rotation=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="669" y="491" width="39" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
