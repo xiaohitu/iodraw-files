@@ -52,7 +52,7 @@
         <mxCell id="7yaXjm_VPXeM_66Wwmaq-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Vector Store Index&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="7yaXjm_VPXeM_66Wwmaq-21">
           <mxGeometry y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7yaXjm_VPXeM_66Wwmaq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7yaXjm_VPXeM_66Wwmaq-16" target="7yaXjm_VPXeM_66Wwmaq-2">
+        <mxCell id="7yaXjm_VPXeM_66Wwmaq-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="7yaXjm_VPXeM_66Wwmaq-16" target="7yaXjm_VPXeM_66Wwmaq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
