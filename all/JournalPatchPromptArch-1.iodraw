@@ -87,7 +87,7 @@
           <mxGeometry x="-462" y="2270.34" width="61" height="24" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAGIAAABOCAMAAADsFTNxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzUExURQAAAFBw/1Bo/0pq/0xs+01p/E1q/E1r/Uxq/U1r/01r/01s/01r/k5r/k1r/k1r/k1r/udiiPUAAAAQdFJOUwAQIDBAUGBwgI+fr7/P3+8jGoKKAAAACXBIWXMAABcRAAAXEQHKJvM/AAADH0lEQVRYR+2Y2ZakIAxARZHCFf7/a+ewh5ggZU+ffvE+tXSE7MQahpeXl5c/YzxmvPRDxDRrDTfVdgNPP2bUh/WUM8RpzVgJfc0k51kpOQ6DUIcJBxhgxWyt1fCF75B6j5v6jfNf0E8ft/ABCwHRZZmMTrlwQKnVL+0TXBuG8ezwHnuAtTuU2+Ji5Sx5WivhAsUHeAhjBBBc0uqRVoVc3Ms3VohgPgc0Q+fV1am/niYoZ4AMgUjWcxxFRZdRkXECzq0CdqVtgycn1VjWvH/yQ70lwufhHSpJn/g/gWa0gektUi3QCrX9tGNxhpimgjQjG0mhsDRLdLfE63eRoJWiiRvl0sjkGiEped5BjAc+Y2+X3RdGFJfXIV+aNgxTJXxPtKNUksEd8QKdgg1CPGI72BfZtsDhZc22aL12Jq9zvIh13XOLe9ktaTLrrmOWXK3Nko74UMCknuh+ZerbJDWnniN8GaGrmAiPyxl37WDayRrwpe0aP+R6e4Q8uizf3BEBr/F1LlJY4211CuMz2r0v4mubUgbF/QjDE1rF5pOE9kHldtUkjmH1hZ2SNdJsr4mQfWRiwOZlPnvYr75byPcw4ZXr5OVAmRXKDAaJcvCV0KKqQalQRzfoAc24pgmFCMJMflfRjdMUiEZP+8iG054aRFXTftKR5YiOEdMTnMElOJhoHNsKz+zzU765uZ7fmk46/ZSCwWrEz4knFmWJWcj5FRUboKvuPLGKWTM4V3HhI4ie4j3LuIqVJ4gFxpYq7armbIZJZrCuoqa/6qvmntQnYPyEAi3u6ir4CdtDri/wnrT2yEfWRe74+qs4JY0pmvv2uCdvoCL/LhCB7ImiuC8Xk57rcLSHZJqSNLkfxgsp6Qu/EM4HJ0At05CdTk0fkvB+WrpuO0w5Izkn3RUpeeq7vL97FIC3j0WOEuwYnYU+RB6EnCqwSNQZSXRNODUT2Sgim1ZqXisJths0uP0NwS5zmRhuPr44iIEZEBJhnJVSanqUuA5m9Pc8VPsKd8j+qBYYxurXE49ZufHhMUItqbmaY9PPHX+LEOPvbf7y8vKf+QeqMIXUBcOrYAAAAABJRU5ErkJggg==;" parent="1" vertex="1">
-          <mxGeometry x="-203.67" y="2233.84" width="129.41" height="103" as="geometry" />
+          <mxGeometry x="-189" y="2184" width="99.25" height="79" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-21" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;shadow=0;sketch=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;align=center;arrowWidth=0.4343446673768939;arrowSize=0.3126820136531271;" parent="1" vertex="1">
           <mxGeometry x="-268.55999999999995" y="2273.34" width="61" height="24" as="geometry" />
@@ -565,6 +565,9 @@
         </mxCell>
         <mxCell id="fbSmz5onPaYnkkQOuPiJ-3" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;The MRI characteristics of PD&amp;nbsp; ？&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-462" y="2172.84" width="254" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="fbSmz5onPaYnkkQOuPiJ-4" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="2062" width="80" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
