@@ -563,6 +563,9 @@
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-114" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-726.0000000000001" y="-838" width="2601" height="1345" as="geometry" />
         </mxCell>
+        <mxCell id="fbSmz5onPaYnkkQOuPiJ-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Text Generation&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-617" y="2381" width="202" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
