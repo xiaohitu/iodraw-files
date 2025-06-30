@@ -134,7 +134,7 @@
         <mxCell id="spubOVQs445J91Sglpep-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="spubOVQs445J91Sglpep-19" target="spubOVQs445J91Sglpep-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="spubOVQs445J91Sglpep-19" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=50;" vertex="1" parent="1">
+        <mxCell id="spubOVQs445J91Sglpep-19" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="-70.25" y="949.5" width="200" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=-0.001;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endSize=16;entryPerimeter=0;" edge="1" parent="1" source="spubOVQs445J91Sglpep-9" target="spubOVQs445J91Sglpep-19">
@@ -186,7 +186,7 @@
           <mxGeometry x="-510" y="996.36" width="140" height="63.64" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-85" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f29797;gradientColor=#0DFF15;gradientDirection=east;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="269.75" y="944.25" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" y="850" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
