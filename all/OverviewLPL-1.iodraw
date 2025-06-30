@@ -139,7 +139,7 @@
         <mxCell id="spubOVQs445J91Sglpep-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;flipH=1;flipV=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="spubOVQs445J91Sglpep-13">
           <mxGeometry x="105.55555555555556" y="63.41176470588236" width="84.44444444444444" height="19.411764705882355" as="geometry" />
         </mxCell>
-        <mxCell id="spubOVQs445J91Sglpep-19" value="CLIP大模型" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;flipH=0;flipV=1;" vertex="1" parent="1">
+        <mxCell id="spubOVQs445J91Sglpep-19" value="CLIP大模型" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;flipH=0;flipV=1;size=40;" vertex="1" parent="1">
           <mxGeometry x="-30" y="950" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endSize=16;" edge="1" parent="1" source="spubOVQs445J91Sglpep-9" target="spubOVQs445J91Sglpep-19">
