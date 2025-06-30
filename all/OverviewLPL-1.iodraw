@@ -153,7 +153,7 @@
           <mxGeometry x="104.38023990713272" y="94.6197600928673" width="32.39520185734555" height="29.155681671610985" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;sketch=1;shadow=0;dashPattern=1 4;perimeterSpacing=0;strokeWidth=3;strokeColor=#67AB9F;opacity=90;rotation=0;container=0;" vertex="1" parent="spubOVQs445J91Sglpep-34">
-          <mxGeometry x="94.23000000000002" y="-85.89999999999998" width="56.97" height="242.2" as="geometry" />
+          <mxGeometry x="94.23" y="-80" width="56.97" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
