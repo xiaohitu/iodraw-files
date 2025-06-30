@@ -144,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="800" width="100" height="314.57" as="geometry" />
+          <mxGeometry x="140" y="800" width="100" height="314.57" as="geometry" />
         </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-90" value="" style="group" vertex="1" connectable="0" parent="spubOVQs445J91Sglpep-36">
           <mxGeometry x="-10" y="40" width="80" height="292.86" as="geometry" />
