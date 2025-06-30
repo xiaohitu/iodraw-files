@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="spubOVQs445J91Sglpep-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=16;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="spubOVQs445J91Sglpep-75" target="spubOVQs445J91Sglpep-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-60" y="1075" />
-              <mxPoint x="-60" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="spubOVQs445J91Sglpep-75" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-350" y="960" width="210" height="230" as="geometry" />
         </mxCell>
@@ -182,6 +174,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-411" y="880" as="sourcePoint" />
             <mxPoint x="-340" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spubOVQs445J91Sglpep-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="spubOVQs445J91Sglpep-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="893" as="sourcePoint" />
+            <mxPoint x="135" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
