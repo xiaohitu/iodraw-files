@@ -523,7 +523,7 @@
         <mxCell id="mYhQItIdA20dQvQ8LJc9-73" value="" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=#f8cecc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1368.6122279131982" y="2242.677925844213" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mYhQItIdA20dQvQ8LJc9-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mYhQItIdA20dQvQ8LJc9-63" target="mYhQItIdA20dQvQ8LJc9-78">
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mYhQItIdA20dQvQ8LJc9-63" target="mYhQItIdA20dQvQ8LJc9-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1379" y="2206" as="targetPoint" />
           </mxGeometry>
