@@ -503,7 +503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-55" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Semantic Attention&lt;/font&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Compute&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="847.34" y="1716" width="178" height="66" as="geometry" />
+          <mxGeometry x="826" y="1711" width="227.66" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
