@@ -459,7 +459,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-18" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="783" y="1336" width="88.84" height="416" as="geometry" />
+          <mxGeometry x="783" y="1326" width="88.84" height="416" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;sketch=1;shadow=0;dashPattern=1 4;perimeterSpacing=0;strokeWidth=3;strokeColor=#67AB9F;opacity=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry width="88.84" height="416" as="geometry" />
