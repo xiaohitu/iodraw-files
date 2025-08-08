@@ -476,7 +476,7 @@
         <mxCell id="mYhQItIdA20dQvQ8LJc9-41" value="W3" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=#5C5C5C;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry x="19" y="175" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mYhQItIdA20dQvQ8LJc9-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=default;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-42" value="W&lt;sub&gt;n&lt;/sub&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=default;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry x="174" y="178" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-25" value="&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Weight&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=1;" vertex="1" parent="1">
