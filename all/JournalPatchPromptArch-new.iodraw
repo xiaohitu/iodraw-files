@@ -510,7 +510,7 @@
           <mxGeometry x="65.99938691368607" y="6.447363488975043" width="18.899155483498877" height="18.899155483498877" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-65" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;Patch-Category Attention&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="784" y="2112" width="392" height="81" as="geometry" />
+          <mxGeometry x="693" y="2086" width="392" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
