@@ -474,7 +474,7 @@
           <mxGeometry x="-73" y="178" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-41" value="W&lt;sub&gt;3&lt;/sub&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=#5C5C5C;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
-          <mxGeometry x="7" y="181.29" width="60" height="60" as="geometry" />
+          <mxGeometry x="7" y="178" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-42" value="W&lt;sub&gt;n&lt;/sub&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=default;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry x="174" y="178" width="60" height="60" as="geometry" />
