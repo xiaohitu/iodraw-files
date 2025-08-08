@@ -499,7 +499,7 @@
             <mxPoint x="931.9295000000002" y="1585.658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mYhQItIdA20dQvQ8LJc9-55" value="Semantic Attention&lt;div&gt;Compute&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-55" value="Semantic Attention&lt;div&gt;Compute&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="847.34" y="1716" width="178" height="66" as="geometry" />
         </mxCell>
       </root>
