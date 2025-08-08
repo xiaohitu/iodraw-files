@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-39" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=45;" parent="1" vertex="1">
-          <mxGeometry x="771.1" y="1405.42" width="63.34" height="62.06" as="geometry" />
+          <mxGeometry x="688.1" y="1405.42" width="63.34" height="62.06" as="geometry" />
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=14;" parent="1" source="yFi9pXH0FaFUGVuxIjdP-1" target="4eXlVZWnNjjgCoZ27OOv-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -448,6 +448,9 @@
         </mxCell>
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-136" value="&lt;i style=&quot;font-size: 20px&quot;&gt;Text token&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="mYhQItIdA20dQvQ8LJc9-10" vertex="1">
           <mxGeometry x="13.414806866952915" y="42.92000000000007" width="68.11158798283259" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yFi9pXH0FaFUGVuxIjdP-1" target="4eXlVZWnNjjgCoZ27OOv-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
