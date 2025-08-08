@@ -278,9 +278,6 @@
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-114" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;" parent="NvVdDMFMJvdUGjjjCoPL-42" vertex="1">
           <mxGeometry x="-2192.13" y="-122" width="2601" height="1345" as="geometry" />
         </mxCell>
-        <mxCell id="Zy8xCLqd7DkJkJTsZjd1-1" value="Semantic Similarity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NvVdDMFMJvdUGjjjCoPL-42">
-          <mxGeometry x="-681.1300000000001" y="532" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-43" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1451.1325486764385" y="1350.000561797753" width="234.11413469206286" height="50.73258426966299" as="geometry" />
         </mxCell>
