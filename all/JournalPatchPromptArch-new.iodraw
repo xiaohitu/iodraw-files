@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.7.17">
   <diagram id="QOYgQ3yohy-wKgOuBFyi" name="第 1 页">
-    <mxGraphModel dx="1432" dy="-834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="-895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,7 +473,7 @@
         <mxCell id="mYhQItIdA20dQvQ8LJc9-40" value="W2" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=#8A8A8A;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry x="-75" y="178" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mYhQItIdA20dQvQ8LJc9-41" value="W3" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=#5C5C5C;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-41" value="W&lt;sub&gt;3&lt;/sub&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=#5C5C5C;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
           <mxGeometry x="19" y="175" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-42" value="W&lt;sub&gt;n&lt;/sub&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;gradientColor=default;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-18">
