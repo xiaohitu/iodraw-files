@@ -71,7 +71,7 @@
           <mxGeometry x="640" y="243.93" width="141" height="55.14" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-72" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
-          <mxGeometry x="830" y="330" width="200" height="69.5" as="geometry" />
+          <mxGeometry x="839" y="350" width="200" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="cq2MsIUMMiiCi4-2-XNX-1" source="cq2MsIUMMiiCi4-2-XNX-14" target="cq2MsIUMMiiCi4-2-XNX-72">
           <mxGeometry relative="1" as="geometry" />
