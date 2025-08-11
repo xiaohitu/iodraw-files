@@ -106,8 +106,8 @@
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-69" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Patch-Category&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;visualization&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="853" y="10.220000000000027" width="166" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cq2MsIUMMiiCi4-2-XNX-14" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
-          <mxGeometry x="780" y="215.73217391304348" width="200" height="71.0108695652174" as="geometry" />
+        <mxCell id="cq2MsIUMMiiCi4-2-XNX-14" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=0;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
+          <mxGeometry x="589" y="204.86217391304348" width="200" height="71.0108695652174" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-45" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-660" y="-160" width="1300" height="390" as="geometry" />
