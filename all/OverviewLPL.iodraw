@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-14" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
-          <mxGeometry x="620" y="215.73217391304348" width="200" height="71.0108695652174" as="geometry" />
+          <mxGeometry x="730" y="215.73217391304348" width="200" height="71.0108695652174" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.399;entryY=-0.001;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endSize=16;entryPerimeter=0;" edge="1" parent="cq2MsIUMMiiCi4-2-XNX-1" source="cq2MsIUMMiiCi4-2-XNX-12" target="cq2MsIUMMiiCi4-2-XNX-14">
           <mxGeometry relative="1" as="geometry" />
