@@ -103,11 +103,10 @@
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endSize=16;" edge="1" parent="cq2MsIUMMiiCi4-2-XNX-1" source="cq2MsIUMMiiCi4-2-XNX-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="350" as="targetPoint" />
+            <mxPoint x="650" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="446" />
-              <mxPoint x="530" y="290" />
-              <mxPoint x="490" y="290" />
+              <mxPoint x="530" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
