@@ -171,6 +171,9 @@
         <mxCell id="4eXlVZWnNjjgCoZ27OOv-92" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;CT Adapter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;rotation=90;container=0;sketch=1;curveFitting=1;jiggle=2;glass=1;" parent="mYhQItIdA20dQvQ8LJc9-27" vertex="1">
           <mxGeometry x="-28.76500000000013" y="92.29499999999993" width="156.62" height="71.69" as="geometry" />
         </mxCell>
+        <mxCell id="DIYTSFxWsJNdnBGOFlBe-1" value="cls_token" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="mYhQItIdA20dQvQ8LJc9-12">
+          <mxGeometry x="135" y="156" width="132" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="NvVdDMFMJvdUGjjjCoPL-114" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="-695.0049999999999" y="-12.99499999999989" width="2681" height="1150.01" as="geometry" />
         </mxCell>
