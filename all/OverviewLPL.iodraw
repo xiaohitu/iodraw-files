@@ -188,7 +188,7 @@
           <mxGeometry x="220" y="179.86" width="161" height="65.02" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-77" value="&lt;font color=&quot;#ba0000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;PD Vector DataBase Preparation&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-45">
-          <mxGeometry x="600" width="140" height="35.02" as="geometry" />
+          <mxGeometry x="430" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1060" width="1300" height="650" as="geometry" />
