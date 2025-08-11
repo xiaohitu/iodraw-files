@@ -122,7 +122,7 @@
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-78" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="1030" y="50.29" width="240" height="239.71" as="geometry" />
         </mxCell>
-        <mxCell id="cq2MsIUMMiiCi4-2-XNX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
+        <mxCell id="cq2MsIUMMiiCi4-2-XNX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="-70" y="-320" width="1430" height="880" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-45" value="" style="group;" vertex="1" connectable="0" parent="1">
