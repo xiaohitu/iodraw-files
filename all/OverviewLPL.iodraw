@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-640" y="410" width="1300" height="500" as="geometry" />
+          <mxGeometry x="-640" y="410" width="1300" height="500.0043478260871" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry y="-60" width="1300" height="560" as="geometry" />
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="19" y="30.65" width="181" height="139.35" as="geometry" />
+        </mxCell>
+        <mxCell id="cq2MsIUMMiiCi4-2-XNX-67" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;RAG&lt;br&gt;System&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
+          <mxGeometry x="337.95" y="434.9808695652175" width="140" height="65.02347826086957" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-45" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-660" y="-160" width="1300" height="390" as="geometry" />
