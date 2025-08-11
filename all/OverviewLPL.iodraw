@@ -172,6 +172,9 @@
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-680" y="1150" width="1300" height="650" as="geometry" />
         </mxCell>
+        <mxCell id="cq2MsIUMMiiCi4-2-XNX-72" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-57.25" y="969.5" width="200" height="69.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
