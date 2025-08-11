@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="aaFANS3YV6TOdHppzIv5">
-    <mxGraphModel dx="1825" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-69" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Patch-Category&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;visualization&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="853" y="10.220000000000027" width="166" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cq2MsIUMMiiCi4-2-XNX-14" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Patch-Category&lt;br&gt;Attention&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;flipH=0;flipV=1;size=0;gradientColor=#000000;fillColor=#808080;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
+        <mxCell id="cq2MsIUMMiiCi4-2-XNX-14" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Patch-Category&lt;br&gt;Attention&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;flipH=0;flipV=1;size=0;gradientColor=#B5B5B5;fillColor=#FAFAFA;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
           <mxGeometry x="589" y="204.86" width="141" height="55.14" as="geometry" />
         </mxCell>
         <mxCell id="cq2MsIUMMiiCi4-2-XNX-72" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;CLIP model&lt;/b&gt;&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;flipH=0;flipV=1;size=40;gradientColor=#0DFF15;fillColor=#f29797;gradientDirection=east;opacity=70;" vertex="1" parent="cq2MsIUMMiiCi4-2-XNX-1">
