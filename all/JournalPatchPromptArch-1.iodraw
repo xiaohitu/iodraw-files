@@ -406,7 +406,7 @@
         <mxCell id="WCWon9fhSyOlMcgDg6wX-20" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;Feature Extraction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-613" y="1223" width="335" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="mYhQItIdA20dQvQ8LJc9-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Semantic Similarity A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="mYhQItIdA20dQvQ8LJc9-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span&gt;Semantic Similarity A&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="672" y="1786" width="150" height="74" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-10" value="" style="group" parent="1" vertex="1" connectable="0">
