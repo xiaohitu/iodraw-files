@@ -503,7 +503,7 @@
           <mxGeometry x="71.1" y="-39.4" width="19.4" height="19.4" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-65" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Patch-Category Attention&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="648" y="2131" width="455" height="81" as="geometry" />
+          <mxGeometry x="635" y="2145" width="455" height="81" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-66" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1629.6799999999998" y="1916.5" width="172" height="50" as="geometry" />
