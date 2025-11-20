@@ -304,7 +304,7 @@
           <mxGeometry x="416.28" y="104.94" width="115.33" height="421.13" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-71" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Classification Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="4eXlVZWnNjjgCoZ27OOv-8" vertex="1">
-          <mxGeometry x="1229" y="930.55" width="351" height="81.21" as="geometry" />
+          <mxGeometry x="1197" y="930.55" width="351" height="81.21" as="geometry" />
         </mxCell>
         <mxCell id="mYhQItIdA20dQvQ8LJc9-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Similarity A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=0" parent="4eXlVZWnNjjgCoZ27OOv-8" vertex="1">
           <mxGeometry x="310" y="556.77" width="168" height="74" as="geometry" />
