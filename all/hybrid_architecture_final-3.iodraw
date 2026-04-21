@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="2Su6T8QivVUgk7cTks5P" name="第 1 页">
-    <mxGraphModel dx="7227" dy="5033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="2350" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFi9pXH0FaFUGVuxIjdP-37" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;font face=&quot;SimHei&quot;&gt;阶段3：BioMedClip微调&lt;/font&gt;&lt;/span&gt;&lt;h4&gt;&lt;/h4&gt;&lt;h3&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="yFi9pXH0FaFUGVuxIjdP-37" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;font face=&quot;SimHei&quot;&gt;阶段3：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;BioMedClip&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;SimHei&quot;&gt;微调&lt;/font&gt;&lt;/span&gt;&lt;h4&gt;&lt;/h4&gt;&lt;h3&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="535.9943394928657" y="-106.001625" width="483.2610084226647" height="58.71212500000001" as="geometry" />
         </mxCell>
         <mxCell id="yFi9pXH0FaFUGVuxIjdP-70" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;opacity=70;align=left;aspect=fixed;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
