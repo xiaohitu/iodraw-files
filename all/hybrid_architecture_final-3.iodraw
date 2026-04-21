@@ -110,7 +110,7 @@
           <mxGeometry x="686.2815450643775" y="406.5" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZXQRCN_u4UYEzg2fHDgD-58" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;SimHei&quot;&gt;阶段2：Patch注意力&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;h4&gt;&lt;/h4&gt;&lt;h3&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontFamily=Times New Roman;" parent="rDGlnYxDgUe2xKp-mFV9-70" vertex="1">
-          <mxGeometry x="253.28" y="582.5" width="409.72" height="43" as="geometry" />
+          <mxGeometry x="232.28" y="611.5" width="409.72" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ZXQRCN_u4UYEzg2fHDgD-44" value="" style="group;fontFamily=Times New Roman;fontStyle=0" parent="rDGlnYxDgUe2xKp-mFV9-70" vertex="1" connectable="0">
           <mxGeometry x="378.2815450643775" y="302" width="86" height="222" as="geometry" />
